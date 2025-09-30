@@ -330,8 +330,8 @@ visualizeBtn.addEventListener('click', () => {
         case 'BFS':
             BFS();
             break;
-        case 'Dijkstar\'s':
-            Dijsktra();
+        case "Dijkstra's":
+            Dijkstra();
             break;
         case 'greedy':
             Greedy();
@@ -475,7 +475,7 @@ class PriorityQueue {
     }
 }
 
-function Dijsktra() {
+function Dijkstra() {
     const pq = new PriorityQueue();
     const parent = new Map();
     const distance = [];
