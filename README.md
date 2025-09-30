@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **Shortest Path Visualizer**
 
 
@@ -23,6 +23,4 @@ Live Site: https://kavyaa1114.github.io/Path-Visualiser/
 - **User-Friendly Interface:** Intuitive design for easy experimentation.
 
 ---
-=======
-##Link
->>>>>>> b278ef4 (Initial commit with fixed app.js and assets)
+
