@@ -7,7 +7,7 @@ This project allows users to explore common pathfinding algorithms like BFS, DFS
 
 ---
 
-Live Site: https://kavyaa1114.github.io/Path-Visualiser/
+Live Site: https: https://kavyaa1114.github.io/Path-Visualiser/
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
 - **Algorithms Implemented:** BFS, DFS, Dijkstra, Greedy, A*
